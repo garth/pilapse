@@ -1,10 +1,13 @@
 {
-  "name": "lapse",
+  "name": "pilapse",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Garth Williams",
   "license": "MIT",
   "dependencies": {
     "raspicam": "^0.2.13"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0"
   }
 }
